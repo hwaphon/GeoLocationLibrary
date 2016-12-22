@@ -4,6 +4,8 @@
 
     phon.showGoogleMap(document.getElementById("map"));
 
+![googlemap](https://github.com/hwaphon/GeoLocationLibrary/blob/master/googlemap.png)
+注意，千万不要使用 `div` 元素作为父元素包裹地图，否则会出现一些意想不到的结果。
 ### 前提
 
 如果你要使用本库，可以将 `phon-geolocation.min.js` 下载下来引入到你的项目中去，如果你想知道函数是如何实现的，可以下载 `phon-geolocation.js` 阅读源码。
