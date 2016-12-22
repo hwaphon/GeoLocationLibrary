@@ -24,6 +24,7 @@
 - getLatitude(handler) - 获取纬度。
 - getLongitude(handler) - 获取经度。
 - showGoogleMap(element) - 显示 `google` 地图。 
+
 ### 使用示例
 
 在控制台打印纬度
